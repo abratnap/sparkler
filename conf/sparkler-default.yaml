@@ -99,8 +99,8 @@ fetcher.headers:
 plugins.active:
     - urlfilter-regex
     - urlfilter-samehost
-#    - fetcher-jbrowser
-#    - fetcher-htmlunit
+    - fetcher-jbrowser
+    - fetcher-htmlunit
 
 # All Plugins are listed under this tree
 plugins:

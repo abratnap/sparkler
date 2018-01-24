@@ -38,5 +38,5 @@
 # accept any HTTP URL
 +^https?://
 
-# reject the rest
-#-.
+# accept the rest
++.
